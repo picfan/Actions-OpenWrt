@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: Build OpenWrt
+name: 树莓派4B 32位固件带CLASH和SSRplus
 
 on:
   repository_dispatch:
